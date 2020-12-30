@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1609295419 source:c:\users\20201041110028\desktop\cppmanager\cppmanager\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+
